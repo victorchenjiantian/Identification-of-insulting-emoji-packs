@@ -1,1 +1,0 @@
-# Identification-of-insulting-emoji-packs
