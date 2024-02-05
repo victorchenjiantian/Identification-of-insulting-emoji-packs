@@ -77,3 +77,8 @@
 2024 02 03
 - 10:41 爬了一晚上，电脑没电了，从头爬
 - 12:52 爬完了807
+
+2024 02 05
+- 17:48 修改图片
+- 18:30 处理gif：https://blog.csdn.net/qq_53521409/article/details/127484277?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170712791516800227469681%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170712791516800227469681&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-6-127484277-null-null.142^v99^pc_search_result_base8&utm_term=python%20%E8%AF%BB%E5%8F%96gif&spm=1018.2226.3001.4187
+- 19:10 成功处理完并全部保留807张
