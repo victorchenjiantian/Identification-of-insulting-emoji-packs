@@ -24,6 +24,12 @@
 ![loss_2024-02-14_150323.png](readme_backup/loss_2024-02-14_150323.png)
 ![accuracy_2024-02-14_150323.png](readme_backup/accuracy_2024-02-14_150323.png)
 
+对于数据集data_training_20240214
+
+![keras_2024-02-14_150323.png](readme_backup/keras_2024-02-14_150323.png)
+![loss_2024-02-14_201023.png](readme_backup/loss_2024-02-14_201023.png)
+![accuracy_2024-02-14_201023.png](readme_backup/accuracy_2024-02-14_201023.png)
+
 ## 每日记录
 2024 01 13 陈佳天 李杰瑞
 
@@ -126,3 +132,4 @@
 - 15:01 调整输入
 - 19:34 又爬了1260张侮辱性
 - 19:54 完成预处理
+- 20:12 训练模型，效果不佳，认为是数据集原因
