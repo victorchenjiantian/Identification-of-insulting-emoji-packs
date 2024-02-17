@@ -18,35 +18,41 @@
 /study 学习他人的文件
 
 ## 尝试记录
-对于数据集data_training_20240213
+### 对于数据集data_training_20240213
 
 ![keras_2024-02-14_150323.png](readme_backup/keras_2024-02-14_150323.png)
 ![loss_2024-02-14_150323.png](readme_backup/loss_2024-02-14_150323.png)
 ![accuracy_2024-02-14_150323.png](readme_backup/accuracy_2024-02-14_150323.png)
 
-对于数据集data_training_20240214
+### 对于数据集data_training_20240214
 
 ![keras_2024-02-14_150323.png](readme_backup/keras_2024-02-14_150323.png)
 ![loss_2024-02-14_201023.png](readme_backup/loss_2024-02-14_201023.png)
 ![accuracy_2024-02-14_201023.png](readme_backup/accuracy_2024-02-14_201023.png)
 
-对于数据集data_training_20240217
+### 对于数据集data_training_20240217
 ![keras_2024-02-17_081513.png](readme_backup/keras_2024-02-17_081513.png)
 ![loss_2024-02-17_081513.png](readme_backup/loss_2024-02-17_081513.png)
 ![accuracy_2024-02-17_081513.png](readme_backup/accuracy_2024-02-17_081513.png)
 ![test_2024-02-17_081513.png](readme_backup/test_2024-02-17_081513.png)
 
-对于数据集data_training_20240217
+### 对于数据集data_training_20240217
 ![keras_2024-02-17_091648.png](readme_backup/keras_2024-02-17_091648.png)
 ![loss_2024-02-17_091648.png](readme_backup/loss_2024-02-17_091648.png)
 ![accuracy_2024-02-17_091648.png](readme_backup/accuracy_2024-02-17_091648.png)
 ![test_2024-02-17_091648.png](readme_backup/test_2024-02-17_091648.png)
 
-对于数据集data_training_20240217
+### 对于数据集data_training_20240217
 ![keras_2024-02-17_094301.png](readme_backup/keras_2024-02-17_094301.png)
 ![loss_2024-02-17_094301.png](readme_backup/loss_2024-02-17_094301.png)
 ![accuracy_2024-02-17_094301.png](readme_backup/accuracy_2024-02-17_094301.png)
 ![test_2024-02-17_094301.png](readme_backup/test_2024-02-17_094301.png)
+
+### 对于数据集data_training_20240217
+![keras_2024-02-17_100742.png](readme_backup/keras_2024-02-17_100742.png)
+![loss_2024-02-17_100742.png](readme_backup/loss_2024-02-17_100742.png)
+![accuracy_2024-02-17_100742.png](readme_backup/accuracy_2024-02-17_100742.png)
+![test_2024-02-17_100742.png](readme_backup/test_2024-02-17_100742.png)
 
 ## 每日记录
 2024 01 13 陈佳天 李杰瑞
@@ -159,3 +165,4 @@
 2024 02 17
 - 09:07 训练CNN模型，取得进步，无法泛化
 - 09:45 使用数据增强，效果不佳
+- 10:08 成功泛化，发现epoch不够大，但准确率不高
