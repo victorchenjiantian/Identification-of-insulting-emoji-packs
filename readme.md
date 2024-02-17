@@ -30,6 +30,12 @@
 ![loss_2024-02-14_201023.png](readme_backup/loss_2024-02-14_201023.png)
 ![accuracy_2024-02-14_201023.png](readme_backup/accuracy_2024-02-14_201023.png)
 
+对于数据集data_training_20240217
+![keras_2024-02-17_081513.png](readme_backup/keras_2024-02-17_081513.png)
+![loss_2024-02-17_081513.png](readme_backup/loss_2024-02-17_081513.png)
+![accuracy_2024-02-17_081513.png](readme_backup/accuracy_2024-02-17_081513.png)
+![test_2024-02-17_081513.png](readme_backup/test_2024-02-17_081513.png)
+
 ## 每日记录
 2024 01 13 陈佳天 李杰瑞
 
@@ -137,3 +143,6 @@
 2024 02 15
 - 16:16 略调整模型
 - 18:34 经过阅读学习，发现由于处理图像，所以应该使用卷积神经网络，之前模型错误
+
+2024 02 17
+- 09:07 训练CNN模型，取得进步，无法泛化
