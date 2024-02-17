@@ -36,6 +36,18 @@
 ![accuracy_2024-02-17_081513.png](readme_backup/accuracy_2024-02-17_081513.png)
 ![test_2024-02-17_081513.png](readme_backup/test_2024-02-17_081513.png)
 
+对于数据集data_training_20240217
+![keras_2024-02-17_091648.png](readme_backup/keras_2024-02-17_091648.png)
+![loss_2024-02-17_091648.png](readme_backup/loss_2024-02-17_091648.png)
+![accuracy_2024-02-17_091648.png](readme_backup/accuracy_2024-02-17_091648.png)
+![test_2024-02-17_091648.png](readme_backup/test_2024-02-17_091648.png)
+
+对于数据集data_training_20240217
+![keras_2024-02-17_094301.png](readme_backup/keras_2024-02-17_094301.png)
+![loss_2024-02-17_094301.png](readme_backup/loss_2024-02-17_094301.png)
+![accuracy_2024-02-17_094301.png](readme_backup/accuracy_2024-02-17_094301.png)
+![test_2024-02-17_094301.png](readme_backup/test_2024-02-17_094301.png)
+
 ## 每日记录
 2024 01 13 陈佳天 李杰瑞
 
@@ -146,3 +158,4 @@
 
 2024 02 17
 - 09:07 训练CNN模型，取得进步，无法泛化
+- 09:45 使用数据增强，效果不佳
