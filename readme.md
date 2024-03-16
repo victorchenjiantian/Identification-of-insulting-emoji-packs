@@ -54,6 +54,16 @@
 ![accuracy_2024-02-17_100742.png](readme_backup/accuracy_2024-02-17_100742.png)
 ![test_2024-02-17_100742.png](readme_backup/test_2024-02-17_100742.png)
 
+### 对于数据集data_training_20240217
+
+![](D:\01_victor\02victor_chen\00school\01xnwy\02_senior high school\04_else\B01_task\Identification-of-insulting-emoji-packs\readme_backup\keras_2024-03-16_212342.png)
+
+![](D:\01_victor\02victor_chen\00school\01xnwy\02_senior high school\04_else\B01_task\Identification-of-insulting-emoji-packs\readme_backup\loss_2024-03-16_212342.png)
+
+![](D:\01_victor\02victor_chen\00school\01xnwy\02_senior high school\04_else\B01_task\Identification-of-insulting-emoji-packs\readme_backup\accuracy_2024-03-16_212342.png)
+
+![](D:\01_victor\02victor_chen\00school\01xnwy\02_senior high school\04_else\B01_task\Identification-of-insulting-emoji-packs\readme_backup\test_2024-03-16_212342.png)
+
 ## 每日记录
 2024 01 13 陈佳天 李杰瑞
 
@@ -172,3 +182,7 @@
 - 20:11 尝试保存训练模型，并使用热力图（CAM）
 - 21:43 出现热力图，但效果不好说
 - 21:57 成功显示，发现模型很抽象
+
+2024 03 16
+
+- 21:27 调整模型（发现要尽量缩小），正确率达80%
